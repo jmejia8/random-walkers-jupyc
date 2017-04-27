@@ -1,6 +1,6 @@
-# Random Walker
+# Random Walk
 
-Implementing random walker in C, Julia and Python.
+Implementing random walk in C, Julia and Python.
 
 Times are:
 
